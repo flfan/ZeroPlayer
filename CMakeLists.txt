@@ -7,3 +7,4 @@ project ("ZeroPlayer")
 
 # Include sub-projects.
 add_subdirectory ("ZeroPlayer")
+add_subdirectory ("ZeroThread")
